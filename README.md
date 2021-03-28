@@ -1,4 +1,10 @@
-### Hi there 👋
+I'm Ahhj (Alistair IRL, he/him)
+
+- By day I'm a Data Scientist @ NHS Digital 🩺 
+- In my spare time, I'm a novice ReactJS developer
+- But professionally, I code in Python and PySpark (you're way better off asking me about those!)
+- I'm keen to collaborate on any coding/data science for good projects
+- Most importantly, I don't usually have a moustache
 
 <!--
 **Ahhj/Ahhj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
