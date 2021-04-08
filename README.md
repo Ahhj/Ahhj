@@ -1,10 +1,9 @@
 I'm Alistair (he/him)
 
-- By day I'm a Data Scientist @ NHS Digital 🩺 
+- By day I'm a Senior Data Scientist @ NHS Digital 🩺 
+- Professionally, I code in Python 🐍 and PySpark ✨
 - In my spare time, I'm a novice ReactJS developer 💻
-- But professionally, I code in Python 🐍 and PySpark ✨ (so you're way better off asking me about those!)
-- I'm keen to collaborate on any coding/data science for good projects 🙏
-- I don't usually have a moustache 👨🏼
+- I'm keen to collaborate on any data science or programming for good projects 🙏
 
 
 <!--
