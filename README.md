@@ -2,7 +2,6 @@ I'm Alistair (he/him)
 
 - By day I'm a Data Scientist [@NHSDigital](https://github.com/NHSDigital) 🩺 
 - Professionally, I code in Python 🐍 and PySpark ✨
-- In my spare time, I'm a novice ReactJS developer 💻
 - I'm keen to collaborate on any data science or programming for good projects 🙏
 
 
