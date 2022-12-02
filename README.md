@@ -1,7 +1,8 @@
-I'm Alistair (he/him)
+I'm Alistair (he/him) 👋
 
-- By day I'm a Data Scientist [@NHSDigital](https://github.com/NHSDigital) 🩺 
-- Professionally, I code in Python 🐍 and PySpark ✨
+- This is my personal GitHub 🐙
+- By day I'm a Data Scientist at [NHS Digital](https://github.com/alistair-jones) 🌈
+- I mainly code in Python 🐍 and PySpark ✨
 - I'm keen to collaborate on any data science or programming for good projects 🙏
 
 
