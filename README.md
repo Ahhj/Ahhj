@@ -1,10 +1,9 @@
 I'm Alistair (he/him) 👋
 
 - This is my personal GitHub 🐙
-- By day I'm a Data Scientist at [NHS Digital](https://github.com/alistair-jones) 🌈
+- By day I'm a Data Scientist at [NHS England](https://github.com/alistair-jones) 🌈
 - I mainly code in Python 🐍 and PySpark ✨
-- I'm keen to collaborate on any data science or programming for good projects 🙏
-
+- This repo contains some stuff I did before losing motivation or running out of time
 
 <!--
 **Ahhj/Ahhj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
